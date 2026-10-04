@@ -23,3 +23,5 @@
 ├── wood_export_cleaned.csv             # ฐานข้อมูลมูลค่าส่งออกรวมหมวด 44 รายประเทศ (2563 - 2568)
 ├── wood_products_detailed_cleaned.csv  # ฐานข้อมูลเจาะลึก 4 เสาหลัก (ปริมาณ, มูลค่า, ราคาต่อหน่วย)
 └── dim_wood_factories.csv              # ฐานข้อมูลโรงงานแปรรูปไม้ (พิกัด, ทุนจดทะเบียน, จำนวนแรงงาน)
+
+https://wood-industry-dashboard-gnzgunfx8etzm5azrutfjc.streamlit.app/
