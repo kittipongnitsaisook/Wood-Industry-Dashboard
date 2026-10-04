@@ -2,6 +2,8 @@
 
 ระบบแดชบอร์ดแบบโต้ตอบ (Interactive Web Application) สำหรับวิเคราะห์โครงสร้างห่วงโซ่อุปทานและสถิติการส่งออกของอุตสาหกรรมไม้ไทย ครอบคลุมสถิติย้อนหลัง 6 ปี (พ.ศ. 2563 – 2568) พัฒนาด้วย **Streamlit** และ **Plotly**
 
+https://wood-industry-dashboard-gnzgunfx8etzm5azrutfjc.streamlit.app/
+
 ---
 
 ## 📌 ภาพรวมโครงการ (Overview)
@@ -24,4 +26,4 @@
 ├── wood_products_detailed_cleaned.csv  # ฐานข้อมูลเจาะลึก 4 เสาหลัก (ปริมาณ, มูลค่า, ราคาต่อหน่วย)
 └── dim_wood_factories.csv              # ฐานข้อมูลโรงงานแปรรูปไม้ (พิกัด, ทุนจดทะเบียน, จำนวนแรงงาน)
 
-https://wood-industry-dashboard-gnzgunfx8etzm5azrutfjc.streamlit.app/
+
